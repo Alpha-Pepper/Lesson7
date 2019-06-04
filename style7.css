@@ -1,0 +1,79 @@
+body{
+    margin: 0px;
+    width: 1024px;
+}
+.head{
+    height: 200px;
+    background: url(https://avtoblog.ua/Media/images/news/inner/2ae4cf4d48f6cfc17e54812699207735.jpg), no-repeat;
+    background-size: 100%;
+    
+}
+.logo{
+    width: 150px;
+    height: 150px;
+    background: no-repeat;
+    background: 100%;
+    position: fixed;
+    top: 25px;
+    left: 437px;
+}
+.tel{
+    position: fixed;
+    top: 180px;
+}
+.main1{
+    height: 20px;
+    background: radial-gradient(at left, gray, white)
+
+}
+.main-item1{
+    height: 20px;
+    margin-left: 100px;
+    float: left;
+    text-align: center;
+    
+}
+.main2{
+    width: 140px;
+    float: left;
+    
+}
+.main-item2{
+    width: 140px;
+    height: 20px;
+margin-top: 20px;
+background: radial-gradient(at left, gray, white);
+text-align: center;
+}
+.content{
+    width: 800px;
+    margin-left: 224px;
+    margin-top: 20px;
+    text-align: center;
+
+}
+.imeg1{
+    float: right;
+    margin-left: 5px;
+}
+a:hover{
+    color: fuchsia;
+}
+a:visited{
+    color: green;
+}
+a:active{
+    color: firebrick;
+}
+.authors{
+    margin-top: 10px;
+    width: 150px;
+    float: left;
+}
+.clear{
+    clear: both;
+}
+.Copyright{
+    height: 20px;
+    background: radial-gradient(at left, gray, white);
+}
