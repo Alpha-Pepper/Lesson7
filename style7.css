@@ -1,6 +1,18 @@
+
+@font-face{
+    font-family: '16849-webfont';
+    src: url(16933-webfont.woff2) format('woff2'),
+         url(16933-webfont.woff) format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
 body{
     margin: 0px;
     
+}
+h2{
+    font-family: '16849-webfont', sans-serif;
 }
 .wrapper{
     max-width: 1024px;
